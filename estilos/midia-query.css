@@ -33,11 +33,12 @@
     
     section#login {
         width: 950px;
+        
     }
 
     section#login > div#imagem {
         float: right;
-        width: 50%;
+        width:50%;
         height: 100%;
     }
 
@@ -51,7 +52,7 @@
     }
 
     div#formulario > p {
-        font-size: 1.2em;       
+        font-size: 1em;       
     }
 
 
